@@ -32,4 +32,8 @@ Data diambil dan disimpan dalam format JSON (disusun secara manual atau diambil 
    Berasal dari review pengguna di Google Maps
 
    **TAMPILAN PRODUK**
-    <img src="1.jpg" style="width: 150px; height: auto;" alt="Tampilan Produk">
+    <img src="1.jpg" style="width: 150px; height: auto;" alt="Tampilan Produk">\
+    <img src="Screenshot_20241215_082615_AksarLuna.jpg" style="width: 150px; height: auto;" alt="Tampilan Produk">\
+    <img src="2.jpg" style="width: 150px; height: auto;" alt="Tampilan Produk">\
+    <img src="Screenshot_20241215_072242_AksarLuna.jpg" style="width: 150px; height: auto;" alt="Tampilan Produk">\
+   
