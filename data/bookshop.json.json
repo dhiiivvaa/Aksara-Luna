@@ -1,0 +1,134 @@
+[
+  {
+    "no": 1,
+    "bookstore": "Solusi Buku",
+    "address": "Jl. Karanganyar Raya, Blotan, Wedomartani, Kec. Ngemplak, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+    "hours": "08.00-21.00",
+    "ratings": "4,9/5",
+    "area": "kedai kopi dan ruang baca",
+    "latitude": -7.7316825,
+    "longitude": 110.421617,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMn4lYjTxxP3yrP4UhEGMMX2fStUX6sSBegCUvW=w400-h533-k-no"
+  },
+  {
+    "no": 2,
+    "bookstore": "Buku Akik",
+    "address": "Jl. Kaliurang Km 12, Gg. Besi Raja No.60 D, Candi Karang, Sardonoharjo, Kecamatan Ngaglik, Sleman, Daerah Istimewa Yogyakarta",
+    "hours": "10.15-17.00",
+    "ratings": "4,8/5",
+    "area": "ruang baca, hiasan ghibli, dan ada kucing",
+    "latitude": -7.6994374,
+    "longitude": 110.416836,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipO2akEtsAL69MHKAtgQgzgVkmoaM560DOsQoDk6=w400-h711-k-no"
+  },
+  {
+    "no": 3,
+    "bookstore": "Shira Media",
+    "address": "Jl. Dersono, Ceper, Wedomartani, Kec. Ngemplak, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+    "hours": "08.00-21.00",
+    "ratings": "4,7/5",
+    "area": "ruang baca, kedai kopi, dan penerbit buku",
+    "latitude": -7.728791,
+    "longitude": 110.418463,
+    "image":"https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/65/2024/11/09/9c599377-6a12-4d92-905b-9b048125cea3-2318049282.jpeg"
+  },
+  {
+    "no": 4,
+    "bookstore": "Bawabuku",
+    "address": "Jl. Taman Sari No.1/310, Patehan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "10.00-20.00",
+    "ratings": "5,0/5",
+    "area": "kedai kopi, ruang baca, dan rooftop",
+    "latitude": -7.8101524,
+    "longitude": 110.360365,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipO7nWoVZR2_oxa4hpdBSrjPZIUkSYAgXPSmGO05=w400-h400-k-no"
+  },
+  {
+    "no": 5,
+    "bookstore": "Toko Buku Natan",
+    "address": "Jl. Mondorakan No.5, Prenggan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "09.00-18.00",
+    "ratings": "4,8/5",
+    "area": "kedai kopi, museum, dan bangunan kerajaan",
+    "latitude": -7.8272833,
+    "longitude": 110.394912,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMhv_BopvzewWWsheeMM0PrdFFplmK_jbcr1d3v=w400-h533-k-no"
+  },
+  {
+    "no": 6,
+    "bookstore": "Warung Sastra",
+    "address": "Depan Indonesia College, Blunyahrejo TR II No.1180, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "15.00-22.00",
+    "ratings": "4,6/5",
+    "area": "penerbit, perpustakaan, kedai kopi",
+    "latitude": -7.7715413,
+    "longitude": 110.366429,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNTtxzgIqZ4Qo1tinnqNZxMkc2CqYEITI-vuaAI=w400-h300-k-no"
+  },
+  {
+    "no": 7,
+    "bookstore": "Kebun Buku - artbookscoffe",
+    "address": "Jl. Minggiran No.61A, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "11.00-18.00",
+    "ratings": "4,7/5",
+    "area": "perpustakaan dan kedai kopi",
+    "latitude": -7.8227547,
+    "longitude": 110.35683,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMjZ9UCrKLYrYk41IqXXJlsXhTfCL7wF3coLGLl=w400-h499-k-no"
+  },
+  {
+    "no": 8,
+    "bookstore": "The Lucky Boomerang Book",
+    "address": "Jalan sosrowijayan GT / 95, Gg. 1, Sosromenduran, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "12.00-17.00",
+    "ratings": "4,5/5",
+    "area": "ruang baca",
+    "latitude": -7.7911295,
+    "longitude": 110.3651319,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMObqqOveJmaZgYcNS3UBtW_3Gp1yMFJhGd5aqu=w400-h711-k-no"
+  },
+  {
+    "no": 9,
+    "bookstore": "Theotraphi",
+    "address": "Jl. Gendeng Cantel No.324, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "13.00-21.00",
+    "ratings": "4,7/5",
+    "area": "kedai kopi",
+    "latitude": -7.7932854,
+    "longitude": 110.388549,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNopKeTm6pDPMvIwCZwI-FpvAjeJQuC2bNv0H6M=w400-h711-k-no"
+  },
+  {
+    "no": 10,
+    "bookstore": "Toko Perihal Cinta",
+    "address": "Jl. Pamularsih No.149 A, Ngabean Wetan, Sinduharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+    "hours": "10.00-23.30",
+    "ratings": "4,4/5",
+    "area": "ruang baca",
+    "latitude": -7.7492103,
+    "longitude": 110.39598,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipPwo6JRXdyhuk2rEwhyKv1o33DFkDWxiI4jVi8s=w400-h266-k-no"
+  },
+  {
+    "no": 11,
+    "bookstore": "Gramedia Sudirman",
+    "address": "Jl. Jend. Sudirman No.54-56, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "09.00-21.30",
+    "ratings": "4,8/5",
+    "area": "penerbit",
+    "latitude": -7.783364,
+    "longitude": 110.374589,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMGLgxqgRuh-sgMOLpF8pJkZtUy54J8mbY3udPA=w400-h225-k-no"
+  },
+  {
+    "no": 12,
+    "bookstore": "Periplus Booshop Tirtodipuran",
+    "address": "Jl. Tirtodipuran No.30, Mantrijeron, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+    "hours": "09.00-22.00",
+    "ratings": "4,8/5",
+    "area": "penerbit",
+    "latitude": -7.8186858,
+    "longitude": 110.36483,
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNvgm_ZONltucxZjKaIQ9DZzvKscr0mDqWhDyTj=w400-h533-k-no"
+  }
+]
