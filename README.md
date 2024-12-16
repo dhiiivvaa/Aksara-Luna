@@ -25,11 +25,11 @@ Komponen Pembangun Produk
 1. **Informasi Toko Buku**:  
 Data diambil dan disimpan dalam format JSON (disusun secara manual atau diambil dari sumber resmi toko buku).
 
- <img src="1.jpg">
-
-3. **Navigasi**:  
+2. **Navigasi**:  
    API Google Maps untuk pencarian rute, estimasi waktu, dan tampilan peta.  
 
-4. **Rating dan Fasilitas**:  
-   Berasal dari review pengguna di Google Maps  
+3. **Rating dan Fasilitas**:  
+   Berasal dari review pengguna di Google Maps
 
+   **TAMPILAN PRODUK**
+    <img src="1.jpg" style="width: 150px; height: auto;" alt="Tampilan Produk">
