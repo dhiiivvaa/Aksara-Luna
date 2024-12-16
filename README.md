@@ -41,6 +41,9 @@ AksaráLuna adalah aplikasi mobile yang dirancang khusus untuk pecinta buku di J
 
 ### **Tampilan Produk**  
 
-| ![Tampilan 1](1.jpg) | ![Tampilan 2](Screenshot_20241215_082615_AksarLuna.jpg) |  
-|-----------------------|-------------------------------------------------------|  
-| ![Tampilan 3](2.jpg) | ![Tampilan 4](Screenshot_20241215_072242_AksarLuna.jpg) |  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="1.jpg" alt="Tampilan 1" style="width: 150px; height: auto;" />
+  <img src="Screenshot_20241215_082615_AksarLuna.jpg" alt="Tampilan 2" style="width: 150px; height: auto;" />
+  <img src="2.jpg" alt="Tampilan 3" style="width: 150px; height: auto;" />
+  <img src="Screenshot_20241215_072242_AksarLuna.jpg" alt="Tampilan 4" style="width: 150px; height: auto;" />
+</div>
